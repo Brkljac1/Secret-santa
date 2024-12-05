@@ -26,18 +26,3 @@ while(secretSanta):
     f.write('(giver,receiver)\n')
     f.write("("+temp[0]+","+temp[1]+")")
     f.close()
-    #toSomeone.txt
-
-
-
-#tamara
-#milica
-#sandra
-#katarina
-#anastasija
-#kristina
-#gordan
-#vuk
-#arijana
-#andjela
-#naum
